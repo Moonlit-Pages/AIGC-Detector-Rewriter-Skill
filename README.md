@@ -2,7 +2,7 @@
 
 **A conservative AI-writing risk detection and thesis rewriting skill for English and Chinese academic writing.**
 
-This skill helps identify and reduce AI-generated writing-risk patterns in master’s thesis text while preserving academic meaning, citations, variables, hypotheses, statistical results, and document structure.
+This Openclaw & Hermes-Agent skill helps identify and reduce AI-generated writing-risk patterns in master’s thesis text while preserving academic meaning, citations, variables, hypotheses, statistical results, and document structure.
 
 It is designed for users who need careful, detector-informed academic revision, especially for thesis chapters affected by **Turnitin AI**, **CNKI AIGC**, or other external AI detection reports.
 
