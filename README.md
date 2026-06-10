@@ -556,6 +556,8 @@ External AI detector results are not guaranteed. Always verify revisions with th
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&legend=top-left" />
  </picture>
 </a>
+
+
 ---
 ## Suggested GitHub Description
 
