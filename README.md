@@ -12,20 +12,6 @@ It is designed for users who need careful, detector-informed academic revision, 
 
 ![AIGC Detector & Rewriter overview showing closed-loop thesis AI-risk diagnosis, paragraph scoring, minimal-edit rewriting, quality gates, and external re-test workflow.展示论文 AI 风险诊断、段落评分、最小化改写、质量门检查和外部复测闭环流程](images/aigc-detector-rewriter-overview.png)
 
-
-
-
-![AIGC Detector & Rewriter 工作流程图，](assets/how-the-skill-works.png)
-
-![Core capabilities of the AIGC Detector & Rewriter skill, including AI-risk detection, minimal-edit rewriting, citation and data protection, version ledger governance, and built-in academic integrity safeguards](assets/core-capabilities.png)
-![AIGC Detector & Rewriter 核心能力图，展示 AI 风险检测、最小化改写、引用和数据保护、版本台账管理以及学术完整性保障](assets/core-capabilities.png)
-
-
-
-
-
-
-
 ## Keywords
 
 AI writing detection, AIGC detector, thesis AI rewrite, academic AI detection, Turnitin AI, CNKI AIGC, AI-generated writing risk, reduce AI score, master thesis rewriting, English thesis editing, Chinese thesis AI risk, detector-informed rewriting, academic integrity, minimal-edit rewriting, AI-polished text, AI-refined text, thesis revision skill.
@@ -114,7 +100,7 @@ This skill is built around the opposite strategy:
 The goal is not to create perfect native-speaker prose.
 The goal is to preserve the author’s thesis while reducing structural AI-writing risk.
 
----
+![Core capabilities of the AIGC Detector & Rewriter skill, including AI-risk detection, minimal-edit rewriting, citation and data protection, version ledger governance, and built-in academic integrity safeguards.核心能力图，展示 AI 风险检测、最小化改写、引用和数据保护、版本台账管理以及学术完整性保障](images/core-capabilities.png)
 
 ## Main Features
 
@@ -398,7 +384,7 @@ Only identify issues and propose precise fixes.
 ```
 
 ---
-![Workflow diagram showing how the AIGC Detector & Rewriter skill processes a thesis from upload and parsing to paragraph risk scoring, high-risk chapter selection, minimal-edit rewriting, quality gate, and external re-test.展示从上传论文、解析章节、段落风险评分、选择高风险章节、最小化改写到质量检查和外部复测的完整流程](assets/how-the-skill-works.png)
+![Workflow diagram showing how the AIGC Detector & Rewriter skill processes a thesis from upload and parsing to paragraph risk scoring, high-risk chapter selection, minimal-edit rewriting, quality gate, and external re-test.展示从上传论文、解析章节、段落风险评分、选择高风险章节、最小化改写到质量检查和外部复测的完整流程](images/how-the-skill-works.png)
 
 ## Recommended Workflow
 
