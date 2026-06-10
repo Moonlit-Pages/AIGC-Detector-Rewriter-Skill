@@ -9,7 +9,9 @@ It is designed for users who need careful, detector-informed academic revision, 
 > This is not a detector-bypass tool.
 > It does not guarantee any AI detector score.
 > It focuses on minimal, evidence-preserving revision and academic integrity.
-
+<p align="center">
+  <img src="images/Image (1).png" alt="AIGC rewrite result: AI feature value reduced from 60% to 18%" width="900">
+</p>
 ---
 
 ## Keywords
