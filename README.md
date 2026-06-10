@@ -49,7 +49,7 @@ The skill supports:
 * Chapter-by-chapter revision workflow
 * DOCX / Markdown / text-based workflows
 
-![Before-and-after infographic showing AI feature value reduced from 60% to 18% after AIGC Detector & Rewriter processing, with meaning, citations, data, and academic structure preserved,降 AI 重写前后对比图，展示论文 AI 特征值经过 AIGC Detector & Rewriter 处理后从 60% 降至 18%，同时保留原意、引用、数据和论文结构 ](images/aigc-rewrite-result-60-to-18.png)
+![Before-and-after infographic showing AI feature value reduced from 60% to 18% after AIGC Detector & Rewriter processing, with meaning, citations, data, and academic structure preserved,降 AI 重写前后对比图，展示论文 AI 特征值经过 AIGC Detector & Rewriter 处理后从 60% 降至 18%，同时保留原意、引用、数据和论文结构 ](images/aigc-rewrite-result.png)
 
 ## Core Principle
 
