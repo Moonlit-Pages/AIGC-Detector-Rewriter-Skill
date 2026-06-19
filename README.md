@@ -1,5 +1,7 @@
 # AIGC Detector & Rewriter Skill
 
+[![GitHub stars](https://img.shields.io/github/stars/Moonlit-Pages/AIGC-Detector-Rewriter-Skill?style=social)](https://github.com/Moonlit-Pages/AIGC-Detector-Rewriter-Skill/stargazers)
+
 **A conservative AI-writing risk detection and thesis rewriting skill for English and Chinese academic writing.**
 
 This Openclaw & Hermes-Agent skill helps identify and reduce AI-generated writing-risk patterns in master’s thesis text while preserving academic meaning, citations, variables, hypotheses, statistical results, and document structure.
