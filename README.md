@@ -547,6 +547,7 @@ This project is for academic writing support and document quality improvement. I
 External AI detector results are not guaranteed. Always verify revisions with the relevant institution-approved process.
 
 ---
+
 ## Star History
 
 <a href="https://www.star-history.com/?repos=Moonlit-Pages%2FAIGC-Detector-Rewriter-Skill&type=date&legend=top-left">
