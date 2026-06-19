@@ -550,13 +550,7 @@ External AI detector results are not guaranteed. Always verify revisions with th
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=Moonlit-Pages%2FAIGC-Detector-Rewriter-Skill&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&legend=top-left" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&legend=top-left)](https://www.star-history.com/?repos=Moonlit-Pages%2FAIGC-Detector-Rewriter-Skill&type=date&legend=top-left)
 
 
 ---
