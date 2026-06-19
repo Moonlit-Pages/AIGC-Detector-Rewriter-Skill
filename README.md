@@ -550,10 +550,16 @@ External AI detector results are not guaranteed. Always verify revisions with th
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&legend=top-left)](https://www.star-history.com/?repos=Moonlit-Pages%2FAIGC-Detector-Rewriter-Skill&type=date&legend=top-left)
-
+<a href="https://www.star-history.com/?repos=Moonlit-Pages%2FAIGC-Detector-Rewriter-Skill&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Moonlit-Pages/AIGC-Detector-Rewriter-Skill&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
+
 ## Suggested GitHub Description
 
 A conservative AI-writing risk detection and thesis rewriting skill for English and Chinese academic writing, supporting Turnitin AI, CNKI AIGC, detector-informed revision, minimal-edit rewriting, and academic integrity protection.
